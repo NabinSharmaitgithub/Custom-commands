@@ -49,9 +49,7 @@ python3 commandmaster.py
 If you’re using Termux, make sure Python is installed:
 
 pkg install python -y
-
-
----
+```
 
 ## 💡 Example Usage
 
